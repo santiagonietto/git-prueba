@@ -13,5 +13,6 @@
 11. git branch -d nombre-de-la-rama : sirve para borrar la rama.
 12. git commit -am : junta los comandos (git add . ) y (git commit -m)
 13. git push : para subir los cambios hechos a github
-
+14. git log --oneline : carga la lista de los ultimos commits hechos 
+15. git checkout : te da la opcion de poder entrar en un repositorio viejo
 
