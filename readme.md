@@ -12,3 +12,6 @@
 10. git checkout master : 
 11. git branch -d nombre-de-la-rama : sirve para borrar la rama.
 12. git commit -am : junta los comandos (git add . ) y (git commit -m)
+13. git push : para subir los cambios hechos a github
+
+
